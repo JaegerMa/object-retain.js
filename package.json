@@ -1,0 +1,24 @@
+{
+  "name": "object-retain",
+  "version": "1.0.0",
+  "description": "Retains elements in object that matches filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaegerMa/object-retain.js.git"
+  },
+  "keywords": [
+    "object",
+    "retain",
+    "filter"
+  ],
+  "author": "JaegerMa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaegerMa/object-retain.js/issues"
+  },
+  "homepage": "https://github.com/JaegerMa/object-retain.js#readme"
+}
