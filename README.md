@@ -22,7 +22,7 @@ retain(obj, (val, key) => key % 2 === 0);
 // => returns obj
 //a: { 2: 'b', 4: 'd' }
 ```
-Object-Retain can be used to be called directly by Arrays
+Object-Retain can be used to be called directly by Objects
 ```js
 Object.prototype.retain = require('object-retain');
 

@@ -1,6 +1,6 @@
 {
   "name": "object-retain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Retains elements in object that matches filter",
   "main": "index.js",
   "scripts": {
