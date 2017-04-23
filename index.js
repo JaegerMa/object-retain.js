@@ -14,7 +14,7 @@ function retain(object, filter)
 
 	for(var key in object)
 	{
-		if(!filter(key, object[key], object))
+		if(!filter(object[key], key, object))
 			delete object[key];
 	}
 
