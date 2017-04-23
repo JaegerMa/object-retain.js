@@ -2,7 +2,6 @@
 
 function retain(object, filter)
 {
-	debugger;
 	//Check if we're called from an object
 	if(typeof(this) === 'object' && typeof(object) === 'function' && filter === undefined)
 	{
